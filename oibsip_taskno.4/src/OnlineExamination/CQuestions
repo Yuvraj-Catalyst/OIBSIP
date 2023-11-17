@@ -1,0 +1,25 @@
+What is a correct syntax to output Hello World in C?
+How do you insert Comments in C code?
+When a variable is created in C, a memory address is assigned to the variable
+In C,Code statements must end with a semicolon(;)
+How can you create a variable with the numeric value 5?
+How can you create a variable with the floating number 2.8?
+Which Operator is used to add together two values?
+Which function is often used to output values and print Text?
+Which format specifier is often used to print integers?
+Which operator can be used to compare two values?
+Which Operator can be used to find the memory size(in bytes) of a data type or variable?
+Which keyword can be used to make a variable unchangeable/read-only?
+What do we call the following?int myNumbers[]={25,50,75,100};
+Array indexes start with:
+How do you call a function in C?
+How do you start writing an if statement in C?
+How do you start writing a while loop in C?
+Which Keyword is used to return a value inside a function?
+How do you start writing a for loop in C?
+Which Statement can be used to select one of many code blocks to be executed?
+which Statement is used to stop a loop?
+Which keyword is used to create a class in C?
+What is ptr in the following code known as? int *ptr = &myAge;
+In C, it is possible to inherit class properties and functions from one class to another.
+which keyword is used to create a structure?

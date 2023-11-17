@@ -1,0 +1,100 @@
+echo "Hello World"
+echo("Hello World");
+print("Hello World")
+p("Hello World")
+//This is a comment
+#This is a comment
+/*This is a comment*/
+null
+Myvar
+my-var
+_myvar
+my_var
+x=int(5)
+Both the other answers are correct
+x = 5
+null
+.pt
+.py
+.ptyh
+.pyt
+Both the other answers are correct
+x = float(2.8)
+x = 2.8
+null
+print(type(x))
+print(typeof x)
+print(typeof(x))
+print(typeOf(x))
+create myFunction();
+def myFunction();
+function myFunction();
+null
+True
+False
+null
+null
+x = "Hello".sub(0,1)
+x = "Hello"[0]
+x = sub("Hello",0,1)
+null
+strip()
+ptrim()
+trim()
+len()
+upper()
+toUpperCase()
+upperCase()
+uppercase()
+repl()
+replaceString()
+switch()
+replace()
+#
+X
+*
+%
+><
+=
+<>
+==
+{"apple","banana","cherry"}
+("apple","banana","cherry")
+{"name":"apple","color":"green"}
+["apple","banana","cherry"]
+{"name":"apple","color":"green"}
+["apple","banana","cherry"]
+("apple","banana","cherry")
+{"apple","banana","cherry"}
+("apple","banana","cherry")
+{"name":"apple","color":"green"}
+["apple","banana","cherry"]
+{"apple","banana","cherry"}
+("apple","banana","cherry")
+{"name":"apple","color":"green"}
+["apple","banana","cherry"]
+{"apple","banana","cherry"}
+DICTIONARY
+TUPLE
+SET
+LIST
+TUPLE
+LIST
+SET
+null
+if(x>y)
+if x>y then:
+if x>y:
+null
+while x>y:
+while (x>y)
+x>y while{
+while x>y {
+for x in y:
+for each x in y:
+for x>y:
+null
+return
+exit
+stop
+break

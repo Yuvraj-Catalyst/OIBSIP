@@ -1,0 +1,100 @@
+Cascading Style Sheets
+Colorful Style Sheets
+Computer Style Sheets
+Creative Style Sheets
+<link rel = "styleSheet" type = "text/css" href ="mystyle.css">
+<styleSheet>mystyle.css</stylesheet>
+<style src = "mystyle.css">
+null
+At the end of the document
+In the <body> section
+In the <head> section
+null
+<css>
+<style>
+<script>
+null
+styles
+class
+font
+style
+body:color=black;
+{body:color=black;}
+body{color:black;}
+{body;color:black;}
+this is a comment
+//this is a comment //
+/* this is a comment*/
+//this is a comment
+background-color
+color
+bgcolor
+null
+h1 {background-color:red;}
+all.h1{background-color:red;}
+h1.all{background-color:red;}
+null
+fgcolor
+text-color
+color
+null
+font-size
+font-style
+text-style
+text-size
+P{font-weight:bold;}
+<p style = "text-size:bold;">
+p{text-size:bold;}
+<p style ="font-size:bold;">
+a {text-decoration:none;}
+a {decoration:no-underline;}
+a {text-decoration:no-underline;}
+a {underline:none;}
+You can't do that with CSS
+text-transform:capitalize
+text-style:capitalize
+transform:capitalize
+font-weight
+font-family
+font-style
+null
+font:bold;
+style:bold;
+font-weight:bold;
+null
+border-width:10px 5px 20px 1px;
+border-width:5px 20px 10px 1px;
+border-width:10px 20px 5px 1px;
+border-width:10px 1px 5px 20px;
+Indent 
+margin-left
+padding-left
+null
+no
+yes
+null
+null
+list:square;
+list-type:square;
+list-style-type:square;
+null
+*demo
+demo
+#demo
+.demo
+#test
+test
+*test
+.test
+div.p
+div+p
+div p
+null
+separate each selector with a space
+separate each selector with a plus sign
+separate each selector with a comma
+null
+static 
+relative
+fixed
+absolute

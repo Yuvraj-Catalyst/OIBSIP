@@ -1,0 +1,100 @@
+System.out.printline("Hello World");
+printf("Hello World");
+Console.WriteLine("Hello World");
+cout << "Hello World";
+//This is a Comment
+*This is a Comment
+--This is a comment
+#This is a comment
+False
+True
+null
+null
+True
+False
+null
+null
+int num = 5;
+num = 5 int;
+num = 5;
+val num = 5;
+num = 2.8 float;
+num = 2.8 double;
+float num = 2.8;
+val num = 2.8;
+The & sign
+The ADD keyword
+The * sign
+The + sign
+printf()
+printword()
+write()
+output()
+%s
+%f
+%d
+%c
+><
+=
+==
+<>
+The sizer property
+The len Property
+The sizeof Property
+The length Property
+const
+readonly
+constant
+final
+A pointer
+An array
+None of the these
+A class
+0
+1
+null
+null
+myFunction[];
+myFunction;
+myFunction();
+(myFunction);
+if x>y
+if(x>y)
+if x>y()
+if x>y then
+while (x < y)
+while x<y
+if x>y while
+while x<y then
+get
+void
+break
+return
+for(x in y)
+for(int i =0;i<5;i++)
+for(int i = 0;while<5;i++)
+for(int i = 0;switch<5;i++)
+break
+switch
+default
+when
+break
+void
+exit
+stop
+class = myClass
+None of these
+class
+class()
+A pointer
+A class
+A parameter
+An array
+True
+False
+null
+null
+structure
+structs
+str
+struct
