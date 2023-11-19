@@ -1,2 +1,3 @@
-# oibsip_taskno.1
-Task 1(Train Reservation ) of Oasis Infobyte for Java intern
+#OIBSIP Intern
+This repo consists of Java intern task submission code
+
