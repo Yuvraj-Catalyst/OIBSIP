@@ -1,0 +1,12 @@
+--------Withdraw Report---------
+Target		Amount		Time
+from Atm		500		2023-11-20
+from Atm		500		2023-11-20
+Shivam		500		2023-11-20
+from Atm		500		2023-11-20
+Shivam		500		2023-11-20
+
+--------Deposit Report---------
+Source		Amount		Time
+Through Atm		600		2023-11-20
+Through Atm		1000		2023-11-20
