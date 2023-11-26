@@ -1,0 +1,100 @@
+echo("Hello World");
+print("Hello World");
+System.out.println("Hello World");
+Console.WriteLine("Hello World");
+False
+True
+null
+null
+/*This is a Comment
+#This is a Comment
+//This is a Comment
+null
+myString
+string
+Txt
+String
+int x = 5;
+num x = 5;
+x = 5;
+float x = 5;
+x = 2.8f;
+float x = 2.8f;
+byte x = 2.8f
+int x = 2.8f;
+length()
+len()
+getLength()
+getSize()
+The + Sign
+The & Sign
+The * Sign
+null
+True
+False
+null
+null
+upperCase()
+tuc()
+toUpperCase()
+touppercase()
+==
+><
+<>
+=
+{}
+()
+[]
+null
+0
+1
+null
+null
+methodName[]
+(methodName)
+methodName()
+methodName.
+(methodName);
+methodName;
+methodName();
+methodName[];
+className
+class
+MyClass
+class()
+class MyClass = new myObj();
+new myObj = MyClass():
+class myObj = new MyClass();
+MyClass myObj = new MyClass();
+False
+True
+null
+null
+Math.largest(x,y)
+Math.maximum(x,y)
+Math.maxNum(x,y)
+Math.max(x,y)
+%
+*
+X
+#
+lib
+package
+getlib
+import
+if x>y then:
+if x>y:
+if(x>y)
+null
+while (x>y)
+while x>y:
+x>y while{
+while x>y {
+get
+return
+void
+break
+exit
+stop
+break
+return
